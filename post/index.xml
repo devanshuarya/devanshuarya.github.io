@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts | </title>
+    <link>/post/</link>
+      <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Devanshu Arya</copyright><lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/pic1.png</url>
+      <title>Posts</title>
+      <link>/post/</link>
+    </image>
+    
+    <item>
+      <title>August 2019 - Our paper titled HyperLearn A Distributed Approach for Representation Learning in Datasets With Many Modalities has been accepted as Brave New Idea at ACM Multimedia</title>
+      <link>/post/acm_mm_bni/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/post/acm_mm_bni/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>August 2019 - Our paper titled HyperLearn A Distributed Approach for Representation Learning in Datasets With Many Modalities has been accepted as Brave New Idea at ACM Multimedia</title>
+      <link>/post/talk/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/post/talk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>August 2019 - Our paper titled HyperLearn A Distributed Approach for Representation Learning in Datasets With Many Modalities has been accepted as Brave New Idea at ACM Multimedia</title>
+      <link>/post/talk_2/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/post/talk_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>August 2019 - Our paper titled HyperLearn A Distributed Approach for Representation Learning in Datasets With Many Modalities has been accepted as Brave New Idea at ACM Multimedia </title>
+      <link>/post/asgard/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/post/asgard/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

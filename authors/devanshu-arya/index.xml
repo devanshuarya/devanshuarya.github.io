@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>**Devanshu Arya** | </title>
+    <link>/authors/devanshu-arya/</link>
+      <atom:link href="/authors/devanshu-arya/index.xml" rel="self" type="application/rss+xml" />
+    <description>**Devanshu Arya**</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Devanshu Arya</copyright><lastBuildDate>Fri, 31 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/pic1.png</url>
+      <title>**Devanshu Arya**</title>
+      <link>/authors/devanshu-arya/</link>
+    </image>
+    
+    <item>
+      <title>Fusing Structural and Functional MRIs using Graph Convolutional Networks for Autism Classification</title>
+      <link>/publication/midl_2020/</link>
+      <pubDate>Fri, 31 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/midl_2020/</guid>
+      <description>
+
+&lt;h1 id=&#34;further-details-on-your-publication-can-be-written-here-using-markdown-for-formatting-this-text-will-be-displayed-on-the-publication-detail-page&#34;&gt;Further details on your publication can be written here using &lt;em&gt;Markdown&lt;/em&gt; for formatting. This text will be displayed on the Publication Detail page.&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Visual Analytics Framework for the Assessment of Temporal Hypergraph Prediction Models</title>
+      <link>/publication/ieee_vis_2019/</link>
+      <pubDate>Sun, 20 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/ieee_vis_2019/</guid>
+      <description>
+
+&lt;h1 id=&#34;further-details-on-your-publication-can-be-written-here-using-markdown-for-formatting-this-text-will-be-displayed-on-the-publication-detail-page&#34;&gt;Further details on your publication can be written here using &lt;em&gt;Markdown&lt;/em&gt; for formatting. This text will be displayed on the Publication Detail page.&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>HyperLearn: A Distributed Approach for Representation Learning in Datasets With Many Modalities</title>
+      <link>/publication/acm_mm_bni_2019/</link>
+      <pubDate>Tue, 15 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/acm_mm_bni_2019/</guid>
+      <description>
+
+&lt;h1 id=&#34;further-details-on-your-publication-can-be-written-here-using-markdown-for-formatting-this-text-will-be-displayed-on-the-publication-detail-page&#34;&gt;Further details on your publication can be written here using &lt;em&gt;Markdown&lt;/em&gt; for formatting. This text will be displayed on the Publication Detail page.&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Interactive exploration of journalistic video footage through multimodal semantic matching</title>
+      <link>/publication/acm_mm_demo_2019/</link>
+      <pubDate>Tue, 15 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/acm_mm_demo_2019/</guid>
+      <description>
+
+&lt;h1 id=&#34;further-details-on-your-publication-can-be-written-here-using-markdown-for-formatting-this-text-will-be-displayed-on-the-publication-detail-page&#34;&gt;Further details on your publication can be written here using &lt;em&gt;Markdown&lt;/em&gt; for formatting. This text will be displayed on the Publication Detail page.&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Predicting Behavioural Patterns in Discussion Forums using Deep Learning on Hypergraphs</title>
+      <link>/publication/cbmi_2019/</link>
+      <pubDate>Wed, 04 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/cbmi_2019/</guid>
+      <description>
+
+&lt;h1 id=&#34;further-details-on-your-publication-can-be-written-here-using-markdown-for-formatting-this-text-will-be-displayed-on-the-publication-detail-page&#34;&gt;Further details on your publication can be written here using &lt;em&gt;Markdown&lt;/em&gt; for formatting. This text will be displayed on the Publication Detail page.&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Exploiting Relational Information in Social Networks using Geometric Deep Learning on Hypergraphs</title>
+      <link>/publication/icmr_2018/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/icmr_2018/</guid>
+      <description>
+
+&lt;h1 id=&#34;further-details-on-your-publication-can-be-written-here-using-markdown-for-formatting-this-text-will-be-displayed-on-the-publication-detail-page&#34;&gt;Further details on your publication can be written here using &lt;em&gt;Markdown&lt;/em&gt; for formatting. This text will be displayed on the Publication Detail page.&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Significance of variable height-bandwidth group delay filters in the spectral reconstruction of speech</title>
+      <link>/publication/interspeech_2013/</link>
+      <pubDate>Sun, 25 Aug 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/interspeech_2013/</guid>
+      <description>
+
+&lt;h1 id=&#34;further-details-on-your-publication-can-be-written-here-using-markdown-for-formatting-this-text-will-be-displayed-on-the-publication-detail-page&#34;&gt;Further details on your publication can be written here using &lt;em&gt;Markdown&lt;/em&gt; for formatting. This text will be displayed on the Publication Detail page.&lt;/h1&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

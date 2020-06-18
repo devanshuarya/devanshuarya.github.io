@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | </title>
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Devanshu Arya</copyright><lastBuildDate>Fri, 31 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/pic1.png</url>
+      <title>Authors</title>
+      <link>/authors/</link>
+    </image>
+    
+    <item>
+      <title>**Devanshu Arya**</title>
+      <link>/authors/devanshu-arya/</link>
+      <pubDate>Fri, 31 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/devanshu-arya/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ahmed El Gazzar</title>
+      <link>/authors/ahmed-el-gazzar/</link>
+      <pubDate>Fri, 31 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/ahmed-el-gazzar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deepak K. Gupta</title>
+      <link>/authors/deepak-k.-gupta/</link>
+      <pubDate>Fri, 31 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/deepak-k.-gupta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Guido van Wingen</title>
+      <link>/authors/guido-van-wingen/</link>
+      <pubDate>Fri, 31 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/guido-van-wingen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marcel Worring</title>
+      <link>/authors/marcel-worring/</link>
+      <pubDate>Fri, 31 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/marcel-worring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rajat Mani Thomas</title>
+      <link>/authors/rajat-mani-thomas/</link>
+      <pubDate>Fri, 31 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/rajat-mani-thomas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Richard Olij</title>
+      <link>/authors/richard-olij/</link>
+      <pubDate>Fri, 31 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/richard-olij/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Daniel Keim</title>
+      <link>/authors/daniel-keim/</link>
+      <pubDate>Sun, 20 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/daniel-keim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dirk Streeb</title>
+      <link>/authors/dirk-streeb/</link>
+      <pubDate>Sun, 20 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/dirk-streeb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Arthur Câmara</title>
+      <link>/authors/arthur-camara/</link>
+      <pubDate>Tue, 15 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/arthur-camara/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Daan Odijk</title>
+      <link>/authors/daan-odijk/</link>
+      <pubDate>Tue, 15 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/daan-odijk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emiel Van Miltenburg</title>
+      <link>/authors/emiel-van-miltenburg/</link>
+      <pubDate>Tue, 15 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/emiel-van-miltenburg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jiaojiao Zhao</title>
+      <link>/authors/jiaojiao-zhao/</link>
+      <pubDate>Tue, 15 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/jiaojiao-zhao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maurits Van Der Goes</title>
+      <link>/authors/maurits-van-der-goes/</link>
+      <pubDate>Tue, 15 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/maurits-van-der-goes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pascal Mettes</title>
+      <link>/authors/pascal-mettes/</link>
+      <pubDate>Tue, 15 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/pascal-mettes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sarah Ibrahimi</title>
+      <link>/authors/sarah-ibrahimi/</link>
+      <pubDate>Tue, 15 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/sarah-ibrahimi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shuo Chen</title>
+      <link>/authors/shuo-chen/</link>
+      <pubDate>Tue, 15 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/shuo-chen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stevan Rudinac</title>
+      <link>/authors/stevan-rudinac/</link>
+      <pubDate>Tue, 15 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/stevan-rudinac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tanja Crijns</title>
+      <link>/authors/tanja-crijns/</link>
+      <pubDate>Tue, 15 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/tanja-crijns/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thomas Mensink</title>
+      <link>/authors/thomas-mensink/</link>
+      <pubDate>Tue, 15 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/thomas-mensink/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>William Thong</title>
+      <link>/authors/william-thong/</link>
+      <pubDate>Tue, 15 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/william-thong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yunlu Chen</title>
+      <link>/authors/yunlu-chen/</link>
+      <pubDate>Tue, 15 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/yunlu-chen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;I am a PhD candidate in the Intelligent Sensory Information Systems group at the University of Amsterdam, advised by  &lt;a href=&#34;https://staff.fnwi.uva.nl/m.worring/&#34;&gt;Prof. Marcel Worring&lt;/a&gt;. My current research focus is representation learning on graph-structured data, in particular multimodal learning using hypergraphs.&lt;/p&gt;
+
+&lt;p&gt;I have worked on developing graph based deep learning models that are scalable to datasets with many modalities, with applications in recommedner systems, link predictions and neuroimaging. I am also part of the &lt;a href=&#34;http://www.asgard-project.eu//&#34;&gt;ASGARD&lt;/a&gt; project, whose aim is to develop AI powered solutions for forensic investigations that can directly contribute towards the Law Enforcement Agencies (LEAs) technological autonomy across EU.&lt;/p&gt;
+
+&lt;p&gt;I graduated from Indian Institute of Technology, Kanpur in 2015 with a B.Tech-M.Tech dual degree in Electrical Engineering. My formal background is in speech signal processing. I worked on developing Voice Activity Detection (VAD) algorithms during my master&amp;rsquo;s thesis and during my internship at NTU Singapore.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Anant Raj</title>
+      <link>/authors/anant-raj/</link>
+      <pubDate>Sun, 25 Aug 2013 00:00:00 +0000</pubDate>
+      <guid>/authors/anant-raj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rajesh Hegde</title>
+      <link>/authors/rajesh-hegde/</link>
+      <pubDate>Sun, 25 Aug 2013 00:00:00 +0000</pubDate>
+      <guid>/authors/rajesh-hegde/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

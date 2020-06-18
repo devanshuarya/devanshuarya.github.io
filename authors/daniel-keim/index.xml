@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Daniel Keim | </title>
+    <link>/authors/daniel-keim/</link>
+      <atom:link href="/authors/daniel-keim/index.xml" rel="self" type="application/rss+xml" />
+    <description>Daniel Keim</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Devanshu Arya</copyright><lastBuildDate>Sun, 20 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/pic1.png</url>
+      <title>Daniel Keim</title>
+      <link>/authors/daniel-keim/</link>
+    </image>
+    
+    <item>
+      <title>Visual Analytics Framework for the Assessment of Temporal Hypergraph Prediction Models</title>
+      <link>/publication/ieee_vis_2019/</link>
+      <pubDate>Sun, 20 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/ieee_vis_2019/</guid>
+      <description>
+
+&lt;h1 id=&#34;further-details-on-your-publication-can-be-written-here-using-markdown-for-formatting-this-text-will-be-displayed-on-the-publication-detail-page&#34;&gt;Further details on your publication can be written here using &lt;em&gt;Markdown&lt;/em&gt; for formatting. This text will be displayed on the Publication Detail page.&lt;/h1&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
