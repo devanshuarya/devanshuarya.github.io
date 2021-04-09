@@ -5,12 +5,23 @@
     <link>/publication_types/1/</link>
       <atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Devanshu Arya</copyright><lastBuildDate>Fri, 31 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Devanshu Arya</copyright><lastBuildDate>Sun, 28 Feb 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/pic1.png</url>
       <title>1</title>
       <link>/publication_types/1/</link>
     </image>
+    
+    <item>
+      <title>Rotation Equivariant Siamese Networks for Tracking</title>
+      <link>/publication/cvpr_2021/</link>
+      <pubDate>Sun, 28 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/cvpr_2021/</guid>
+      <description>
+
+&lt;h1 id=&#34;further-details-on-your-publication-can-be-written-here-using-markdown-for-formatting-this-text-will-be-displayed-on-the-publication-detail-page&#34;&gt;Further details on your publication can be written here using &lt;em&gt;Markdown&lt;/em&gt; for formatting. This text will be displayed on the Publication Detail page.&lt;/h1&gt;
+</description>
+    </item>
     
     <item>
       <title>Fusing Structural and Functional MRIs using Graph Convolutional Networks for Autism Classification</title>
